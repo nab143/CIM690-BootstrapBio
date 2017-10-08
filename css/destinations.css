@@ -1,0 +1,24 @@
+.carousel-item {
+	width: 600px;
+	height: 400px;
+	margin: auto;
+}
+
+.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 10px;
+}
+
+.jumbotron{
+  width:100%;
+}
+
+.container{
+  width:1025px;
+}
+
+.jumbotron .container {
+  max-width: 100%;
+}
